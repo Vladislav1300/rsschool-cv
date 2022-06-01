@@ -1,4 +1,5 @@
-##*Askerko Vladislav*
+*Askerko Vladislav*
+-------------------------
 *********
 **Phone** +375293127036
 
@@ -6,21 +7,25 @@
 
 **GitHub** Vladislav1300
 *********
-##*EDUCATION*
+*EDUCATION*
+-------------------------
 **BELARUSIAN STATE UNIVERSITY OF TRANSPORT, GOMEL**
 + Automation, telemechanics and communication for railway transport (information transmission systems), 2014-2019
 + Master's degree in transport, 2019-2021
 *********
-##*ABOUT*
+*ABOUT*
+-------------------------
 I work in the reilway as electromechanic now and combine work and study. I quickly assimilate information, quickly master the necessary tools. I love to learn new things and apply it in practice. 
 *********
-##*LANGUAGE SKILLS*
+*LANGUAGE SKILLS*
+-------------------------
 + English - A1
 + Russian - native language (reading, writing and speaking)
 + Belarusian - native language (reading, writing and speaking)
 + German - pre intermediate
 *********
-##*CODE EXAMPLE*
+*CODE EXAMPLE*
+-------------------------
 ```
 for (let i = 0; i<=100; i++){
     if(i%3 === 0 && i%5 !== 0){
