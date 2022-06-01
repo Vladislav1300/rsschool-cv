@@ -5,7 +5,7 @@
 
 **E-Mail** askerko1997@gmail.com
 
-**GitHub** Vladislav1300
+**GitHub** [Vladislav1300](https://github.com/Vladislav1300)
 *********
 *EDUCATION*
 -------------------------
