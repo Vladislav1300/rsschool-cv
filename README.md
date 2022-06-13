@@ -1,1 +1,1 @@
-[Link to CV](https://Vladislav1300.github.io/rsschool-cv/cv)
+
