@@ -27,3 +27,12 @@ I work in the reilway as electromechanic now and combine work and study. I quick
 ## **COURSES**
 + JS/FE PRE-SCHOOL 2022Q2 (JAVASCRIPT)  
 [link to certificate](https://app.rs.school/certificate/w3meelpq)
+## **CODE EXAMPLE**
+```
+function highAndLow(numbers){
+  let resultArr = numbers.split(' ')
+  .sort((a,b) => b-a);
+  return resultArr[0] + " " 
+  + resultArr[resultArr.length - 1];
+}
+```
